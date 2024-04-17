@@ -3,7 +3,7 @@
 
 > Message from **Zoo**: **"Discord isnt a logging service, this will only get you in trouble with discord and cry whenever your server gets permanently rate limited" and I'm 100% with him on this point. I do not use Discord for my logs. This is simple to help the community but I do not encourage you to do it.**
 
-> I would recommand taking a $8/month subscription on https://www.fivemanage.com/pricing for your logs. They have a complete Documentation that will help you to set it up easily.
+> **I would recommand taking a $8/month subscription on https://www.fivemanage.com/pricing for your logs. They have a complete Documentation that will help you to set it up easily.**
 
 # How to add Discord's Log to **ox_lib**
 
