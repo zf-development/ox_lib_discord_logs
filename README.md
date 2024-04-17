@@ -1,5 +1,6 @@
 # DISCLAMER
 > **This method is not recommanded at all. This is here because I know that a lot of people from the community want to use discord for logging but it will cause troubles with Discord.**
+
 > Message from **Zoo**: **"Discord isnt a logging service, this will only get you in trouble with discord and cry whenever your server gets permanently rate limited" and I'm 100% with him on this point. I do not use Discord for my logs. This is simple to help the community but I do not encourage you to do it.**
 
 # How to add Discord's Log to **ox_lib**
