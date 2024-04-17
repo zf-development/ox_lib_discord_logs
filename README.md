@@ -23,5 +23,7 @@ end
 ```
 
 2. Go in your `server.cfg` and add/replace this code:
+```lua
 set inventory:webhook "YOUR_DISCORD_WEBHOOK"
 set ox:logger "discord"
+```
